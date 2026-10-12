@@ -1,227 +1,206 @@
-# Awesome-Generative-AI-For-CRM
+<div align="center">
 
-## Top Generative AI for CRM Tools Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Generative-AI-For-CRM">
+  <img src="assets/banner.svg" alt="Awesome Generative AI for CRM Banner" width="100%" />
+</a>
 
+<br/><br/>
 
+# 🚀 Awesome Generative AI for CRM
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+### 🤖 Curated Directory of AI Sales Copilots, Autonomous Agents & AI-Native CRM Systems
 
-*Focused on AI Copilots, Autonomous Sales Agents & Natural Language CRM Interfaces*  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Aeesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-For-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-For-CRM?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-For-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-For-CRM?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-For-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-For-CRM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/isaandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Last updated: March 2026**
+<p align="center">
+  <b>A comprehensive, SEO-optimized knowledge repository tracking enterprise SaaS platforms, autonomous SDR agents, and self-hosted open-source software integrating Large Language Models (LLMs) with CRM workflows.</b>
+</p>
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Generative AI for CRM**. These tools embed large language models directly into customer relationship management workflows — enabling natural language queries, autonomous lead research, email drafting, call coaching, and agentic automation without leaving the CRM interface.
-
-
-
-**Examples** include Salesforce Einstein GPT, Microsoft Dynamics 365 Copilot, HubSpot AI, Zoho Zia, Freshworks Freddy AI, SugarCRM Sugarcube, Creatio Copilot, Pegasystems GenAI, Oracle Fusion Sales AI, and SAP CX AI (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom LLM integration, and transparent AI agent workflows — ideal for teams prioritizing data sovereignty, developers building AI-native CRM platforms, and organizations avoiding per-seat AI taxes.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Salesforce Einstein GPT](https://www.salesforce.com/)**  
-
-  Generative AI layer across Salesforce products with natural language prompts for CRM data, email generation, and Agentforce autonomous agents.
-
-
-
-- **[Microsoft Dynamics 365 Copilot](https://www.microsoft.com/en-us/dynamics-365)**  
-
-  AI assistant embedded across Dynamics 365 with natural language interaction for sales, service, and customer insights.
-
-
-
-- **[HubSpot AI](https://www.hubspot.com/)**  
-
-  AI-powered content generation, predictive lead scoring, and chatbot capabilities integrated across HubSpot CRM.
-
-
-
-- **[Zoho Zia](https://www.zoho.com/)**  
-
-  AI assistant within Zoho CRM providing predictive lead scoring, best time to contact, sentiment analysis, and voice assistant.
-
-
-
-- **[Freshworks Freddy AI](https://www.freshworks.com/)**  
-
-  AI engine across Freshworks products with ticket summarization, response suggestions, and predictive deal insights.
-
-
-
-- **[SugarCRM Sugarcube](https://www.sugarcrm.com/)**  
-
-  AI-powered predictive analytics and intelligent CRM capabilities within SugarCRM platform.
-
-
-
-- **[Creatio Copilot](https://www.creatio.com/)**  
-
-  Generative AI assistant for CRM and workflow automation with natural language interface.
-
-
-
-- **[Pegasystems GenAI](https://www.pega.com/)**  
-
-  Enterprise AI capabilities within Pega Platform for customer decisioning and workflow automation.
-
-
-
-- **[Oracle Fusion Sales AI](https://www.oracle.com/)**  
-
-  AI-powered sales intelligence and automation within Oracle Fusion Cloud CX.
-
-
-
-- **[SAP CX AI](https://www.sap.com/)**  
-
-  AI capabilities across SAP Customer Experience solutions for sales, service, and commerce.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[zeropipeline-mcp](https://github.com/ainative/zeropipeline-mcp)**  
-
-  AI-native CRM that runs as an MCP server, giving Claude, Codex, Cursor, and any AI agent full access to sales pipelines, deals, customers, and activities. **Zero config required** — auto-provisions a free CRM account on first launch. Features 30+ CRM tools including pipeline management, deal scoring, contact management, activity tracking, task management, and outreach campaigns. Free, open-source alternative to HubSpot, Salesforce, and Pipedrive with native AI agent interface .
-
-
-
-- **[BasaltCRM](https://github.com/BasaltHQ/crm-official)**  
-
-  Premium open-source CRM built on Next.js 16 with AI-first architecture. Features **LeadGen Wizard** for autonomous AI web crawling to discover and qualify leads, AI Insights Widget for real-time revenue risk and data integrity checks, integrated dialer with voice AI agent via AWS Chime, multi-model support (OpenAI, Anthropic, Azure, Google, Mistral, DeepSeek), and full GTM pipeline from campaigns through invoices. MIT licensed .
-
-
-
-- **[Cordys CRM](https://github.com/1Panel-dev/cordys-crm)**  
-
-  Open-source AI CRM system from Fit2Cloud with **server-side AI agent CORDYS AI** (v1.9.0). Runs as an embedded assistant within the CRM, translating natural language instructions into structured operations on leads, customers, and opportunities. Operates within the same trust domain as CRM data model and RBAC permissions. Features transparent thinking process, security-graded execution (read/write/delete), and real-time data grounding with source citations. Over 300,000 downloads since open-sourcing in November 2025 .
-
-
-
-- **[Anti-CRM](https://github.com/anti-crm/anti-crm)**  
-
-  Local-first, encrypted CRM exposed through CLI, MCP server, and read-only API. Stores people, organizations, activities, pipelines, and stages with SQLCipher encryption at rest. Features Gmail sync, Google Calendar ingest, BDR draft generation with approval gating, and plugin architecture for enrichment APIs. Designed for privacy-conscious teams that want sales data never leaving their infrastructure. MCP safe allowlist for agent-driven creates, updates, and activity logging .
-
-
-
-- **[Project Wingman (ClientLens)](https://github.com/avinashgaurav/project-wingman-ClientLens)**  
-
-  Open-source AI sales copilot for browser sidebar with live call coaching during Google Meet. Features pre-call pitch generation grounded in your knowledge base, five real-time agents (sentiment, agenda pacing, next-best-sentence coach, objection handling, fact-checking validator), and post-call structured summaries pushed to Zoho CRM. Self-hosted on your own LLM keys — no vendor server. Python 3.11+ required, Node 20+ for extension .
-
-
-
-- **[SDRbot](https://github.com/NForce-ai/SDRbot)**  
-
-  Open-source, terminal-native RevOps agent for CRM tasks, prospect research, and sales workflows. Uses your own API keys with full local operation. Features tool scope controls (Standard/Extended/Privileged), auto-approve mode, shell allow-list for read-only commands, IMAP/SMTP email integration, and non-interactive mode for CI/CD automation. Supports MCP servers and custom skills .
-
-
-
-- **[OpenCloser](https://github.com/issacops/opencloser-v2)**  
-
-  Open-source AI SDR and sales platform running locally on desktop. Features AI Sales Strategist for ICP generation, AI Lead Researcher with Kanban pipeline, AI Caller with Twilio phone lines and real-time voice agent, AI Sales Coach for objection sparring, and AI Sales Manager for post-call debriefs. Built with Tauri, React, Rust, and Gemini. **Demo mode works without API keys**. MIT licensed .
-
-
-
-- **[Krayin CRM](https://github.com/krayin/laravel-crm)**  
-
-  Open-source CRM framework for SMEs built on Laravel, Vue.js, and Tailwind CSS. Features lead pipeline with kanban visualization, activities tracking, contacts management, products and quotes, and ACL-based access control. Provides **Agent Skills** (`krayin/agent-skills`) for Claude Code and Cursor, plus AI context files (`llms.txt`) for Copilot, ChatGPT, and custom RAG integrations .
-
-
-
-- **[Comp AI CRM](https://github.com/comp-ai/crm)**  
-
-  Open-source CRM released under MIT license, built for teams under 10 people. Manages contacts, companies, deals, tasks, and sales pipelines with Gmail and Google Calendar sync. Features Perplexity web research, RapidAPI LinkedIn enrichment, and investigation agents. Single-tenant architecture with self-hosting via Bun, Docker, and PostgreSQL. Built on Google and Vercel infrastructure .
-
-
-
-- **[gavvy-salesmaster](https://github.com/gavvy-ai/gavvy-salesmaster)**  
-
-  Open-source sales engine combining CRM with AI virtual sales team and automated pipeline. **Core CRM, payment, channels, RBAC, quotes, e-sign, workflow, SaaS, knowledge, and analytics modules are MIT-licensed and fully open**. Enterprise edition adds AI sales team (SalesOrchestrator + 7 Agents + LeadScorer + SafetyGuard) and learning memory. Install via `pip install gavvy-salesmaster` — no database or API key needed to start .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[CiviCRM AI Integration](https://civicrm.org/)** — Self-hosted AI for CiviCRM via Drupal AI module, CiviCRM Entity, and Search API. Enables chatbots, semantic search, agentic workflows, translation, and narrative report generation using open-source LLMs (Llama, Mistral) with RAG. Data never leaves your infrastructure .
-
-- **[Apache Camel MCP for CRM](https://camel.apache.org/)** — Connect local AI to business systems via MCP server. Define CRM tools as Camel routes with `ai-tool` component — each route implements one purposeful business capability (find customers, read history, create notes). MCP annotations provide `readOnlyHint` and `idempotentHint` metadata for AI clients .
-
-- **LLM Integration Libraries** — LangChain, LlamaIndex for building custom CRM AI pipelines.
-
-- **Vector Databases** — Qdrant, Weaviate, Milvus for semantic search across CRM data.
-
-- **Local LLM Runtimes** — Ollama, LM Studio for fully offline AI CRM capabilities.
-
-
-
-**Frameworks for building custom systems**: Combine **Cordys CRM** for server-side AI agent with RBAC, **zeropipeline-mcp** for AI agent CRM access via MCP, **BasaltCRM** for AI-native revenue operations, **Project Wingman** for live call coaching, and **Anti-CRM** for local-first encrypted CRM to build a complete self-hosted generative AI CRM stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Generative AI for CRM must comply with data protection regulations (GDPR, CCPA, HIPAA), AI transparency requirements, and ethical AI guidelines for automated decisioning.
-
-- Self-hosted open-source solutions require proper security hardening, LLM output validation, and prompt injection defenses.
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
 
+- [📌 Introduction & Scope](#-introduction--scope)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧠 Architecture: How Generative AI Powers Modern CRM](#-architecture-how-generative-ai-powers-modern-crm)
+- [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#-disclaimer)
 
-**Made for revenue operations teams, sales leaders, CRM administrators, and developers building AI-native CRM platforms.**  
+---
 
-Let's make generative AI for CRM more open, explainable, and data-sovereign.
+## 📌 Introduction & Scope
+
+**Generative AI for CRM** represents a paradigm shift from passive database record-keeping to **proactive, agentic revenue engines**. Modern Customer Relationship Management systems embedded with Large Language Models (LLMs), Model Context Protocol (MCP) servers, and retrieval-augmented generation (RAG) empower sales, marketing, and customer success teams to:
+
+- 🔍 **Automate Inbound & Outbound Prospecting**: Autonomous SDR agents research prospects, generate ideal customer profiles (ICPs), and craft hyper-personalized outreach.
+- 🎙️ **Real-time Call Coaching & Copilots**: On-call sentiment analysis, objection handling prompts, and automated meeting transcription with instant CRM pipeline updates.
+- ⚡ **Natural Language CRM Operations**: Query pipelines, generate deals, update stages, and build analytics dashboards using simple conversational English.
+- 🛡️ **Data Sovereignty & Local AI**: Run local-first, self-hosted AI CRMs with open models (Llama, Mistral, DeepSeek) without exposing sensitive customer records to per-seat vendor taxes.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global market for **Artificial Intelligence in CRM** is estimated at **$11.04 billion in 2025** and is projected to expand to **$51.67 billion by 2030**, registering an aggressive Compound Annual Growth Rate (**CAGR of ~36.1%**), with total global spending on broader Generative AI-enabled CRM ecosystems scaling toward **$170 billion**.
+
+### 🔍 Market Concentration vs. Fragmentation
+The sector displays a **bifurcated market structure**:
+- **High Enterprise Concentration at the Top**: Legacy enterprise suites (Salesforce, Microsoft Dynamics 365, Oracle Fusion CX, and SAP CX) hold concentrated market dominance among Fortune 500 organizations, relying on massive data graphs and native platform copilot layers (Agentforce, Copilot).
+- **Extreme Mid-Market & Open-Source Fragmentation**: The SMB, mid-market, and developer tiers are **highly fragmented and rapidly contested**. Fast-growing AI-native SaaS challengers and extensible open-source platforms (e.g., Twenty, Chatwoot, Cordys CRM, Relaticle) are unbundling legacy per-seat CRM systems by delivering modular MCP servers, local privacy models, and customizable agentic workflows.
+
+---
+
+## 🏢 SaaS & Hosted Platforms
+
+Below is a detailed comparison of leading enterprise Generative AI CRM platforms, sorted in descending order by **Company Size (Market Capitalization / Corporate Valuation)**.
+
+| Company & Platform 🏢 | Company Size (Market Cap / Valuation) 💰 | Starting Pricing Tier 🏷️ | Free Tier Limits & Free Trial Terms 🎁 | Core GenAI & Autonomous Agent Capabilities 🤖 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Dynamics 365 Copilot](https://www.microsoft.com/en-us/dynamics-365)** | **~$3.1 Trillion** *(Market Cap)* | **$65 / user / month** *(Dynamics 365 Sales Professional; Sales Enterprise with Copilot at $105/user/mo; Copilot for Sales add-on at $50/user/mo)* | **30-Day Free Trial** *(Up to 25 users, pre-loaded sample dataset, full access to Dynamics 365 Sales and embedded Copilot assistance)* | Embedded Copilot across Outlook, Teams, and Dynamics; automated email summaries, real-time meeting coaching, and predictive deal risk insights. |
+| **[Oracle Fusion Sales AI](https://www.oracle.com/cx/sales/)** | **~$480 Billion** *(Market Cap)* | **$65 / user / month** *(Professional Edition; Standard Edition at $100/user/mo; enterprise minimum volume commits apply)* | **30-Day Cloud Trial + Guided POC** *(Access via OCI Free Tier with $300 cloud credits, always-free services, and interactive guided demo sandbox tours)* | AI-driven deal acceleration, predictive lead qualification, automated next-best sales action recommendations, and CPQ quote guidance. |
+| **[SAP CX AI](https://www.sap.com/products/crm.html)** | **~$290 Billion** *(Market Cap)* | **$60 / user / month** *(SAP Sales Cloud Standard Edition; Enterprise Edition starts at $134/user/mo)* | **30-Day Free Trial** *(Dedicated shared tenant environment pre-populated with master data and guided hands-on tours)* | Generative email drafting, Joule generative AI copilot integration, predictive opportunity pipeline scoring, and automated customer conversation insights. |
+| **[Salesforce Einstein GPT / Agentforce](https://www.salesforce.com/)** | **~$285 Billion** *(Market Cap)* | **$25 / user / month** *(Starter Suite; Pro Suite at $100/user/mo; Enterprise Einstein 1 Sales at $165/user/mo; Agentforce at $2/conversation)* | **30-Day Free Trial** *(Starter Suite trial for up to 5 users, no credit card required, includes basic Einstein AI assistants and guided workflows)* | Autonomous Agentforce agents for inbound lead qualification, conversational prompt-to-workflow generation, and unified Data Cloud grounding. |
+| **[HubSpot AI](https://www.hubspot.com/)** | **~$32 Billion** *(Market Cap)* | **$15 / seat / month** *(Starter Customer Platform; Sales Hub Professional starts at $90/seat/mo)* | **Free Forever Plan** *(Up to 5 users, 1 million contacts, basic email marketing, forms, live chat, and free AI content assistant prompts)* | ChatSpot conversational assistant, AI-generated email copy and marketing collateral, predictive lead scoring, and automated pipeline hygiene. |
+| **[Zoho Zia](https://www.zoho.com/crm/)** | **~$18 Billion** *(Valuation / Private)* | **$14 / user / month** *(Standard Edition billed annually; Zia AI unlocks fully in Enterprise at $40/user/mo)* | **Free Forever Plan & 15-Day Trial** *(Free plan for up to 3 users, 5,000 records, 1GB storage; 15-day free trial of Enterprise with Zia AI, no card required)* | Zia conversational voice/chat assistant, AI deal prediction, customer sentiment tracking, best-time-to-contact anomaly detection. |
+| **[Pegasystems GenAI](https://www.pega.com/)** | **~$8 Billion** *(Market Cap)* | **$0.45 / resolved case** *(Low-Code Factory; Standard Edition at $0.80/case; Pega Cloud from $90/user/mo)* | **Free Community Edition & Blueprint** *(Indefinite developer cloud sandbox for workflow testing; free web-based Pega Blueprint AI architect tool)* | Pega GenAI Knowledge Buddy, automated case summarization, real-time Next-Best-Action customer decisioning engine, and workflow generation. |
+| **[Freshworks Freddy AI](https://www.freshworks.com/crm/sales/)** | **~$4.5 Billion** *(Market Cap)* | **$9 / user / month** *(Growth Edition billed annually; Pro at $39/user/mo; Freddy Copilot add-on at $29/user/mo)* | **Free Forever Plan & 21-Day Trial** *(Free plan for up to 3 users, 1,000 marketing contacts, contact management; 21-day full-featured Enterprise trial)* | Freddy AI Copilot for sales rep inbox assistance, contextual email drafting, predictive deal win probability scoring, and automated call summaries. |
+| **[Creatio Copilot](https://www.creatio.com/)** | **~$1.2 Billion** *(Valuation / Private)* | **$40 / user / month** *(Growth Plan; plus $15/user/mo for CRM sales app; initial package includes 10 AI actions/user)* | **14-Day Free Trial** *(Pre-loaded demo CRM environment with complimentary Copilot AI trial credits, no credit card required)* | Conversational no-code CRM app creation, natural language query interface for CRM records, intelligent workflow builder, and automated action suggestions. |
+| **[SugarCRM Sugarcube](https://www.sugarcrm.com/)** | **~$800 Million** *(Valuation / Private)* | **$19 / user / month** *(Sugar Sell Essentials; 3-user minimum, up to 9 users; Sugar Sell Standard at $59/user/mo)* | **7-Day Free Trial** *(Pre-configured cloud evaluation sandbox pre-loaded with demonstration sales data and predictive AI analytics)* | SugarPredict AI engine for lead prioritization, churn probability calculation, sentiment analysis, and automated sentiment-aware routing. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore the top open-source CRM software, AI sales agents, and MCP infrastructure repositories. Entries are sorted in **descending order by GitHub Star count**.
+
+| Repository & Link 📦 | GitHub Stars ⭐ | Architecture & Core Stack 🛠️ | Description & AI Capabilities 💡 |
+| :--- | :--- | :--- | :--- |
+| **[Twenty](https://github.com/twentyhq/twenty)** | [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, NestJS, React, GraphQL, PostgreSQL | The #1 modern open-source CRM alternative to Salesforce. Features modular extensibility, custom AI fields, workflow automation, GraphQL APIs, and community-driven LLM integrations. |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL, Redis | Open-source customer communication platform and relationship management system. Features native Captain AI integration, reply suggestion, conversation summarization, and multi-channel bots. |
+| **[Krayin CRM](https://github.com/krayin/laravel-crm)** | [![GitHub stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) | PHP, Laravel, Vue.js, Tailwind CSS | High-performance, customizable CRM framework for SMEs with Kanban pipelines and activities. Provides dedicated `krayin/agent-skills` for Claude Code/Cursor and `llms.txt` context files. |
+| **[erxes](https://github.com/erxes/erxes)** | [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers) | TypeScript, Node.js, React, MongoDB, GraphQL | Open-source developer-centric marketing and sales CRM suite. Delivers omnichannel inbox management, automated AI lead journeys, team workflows, and pluggable AI connectors. |
+| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | PHP, Backbone.js, MySQL / MariaDB | Feature-rich, highly configurable open-source CRM application. Supports custom LLM extensions for lead scoring, automated email generation, workflow rules, and REST API access. |
+| **[Cordys CRM](https://github.com/1Panel-dev/CordysCRM)** | [![GitHub stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=social&color=white)](https://github.com/1Panel-dev/CordysCRM/stargazers) | Go, Vue.js, MySQL, 1Panel | Open-source AI CRM system featuring the built-in **CORDYS AI** agent. Translates natural language instructions into structured operations with transparent thought chains and RBAC-governed execution. |
+| **[Open Mercato](https://github.com/open-mercato/open-mercato)** | [![GitHub stars](https://img.shields.io/github/stars/open-mercato/open-mercato?style=social&color=white)](https://github.com/open-mercato/open-mercato/stargazers) | TypeScript, Node.js, Multi-Tenant Engine | The AI-engineering foundation framework for CRM/ERP systems. Provides pre-built domain modules, RBAC, and events so AI coding agents (Claude Code, Cursor) can build CRM features rapidly. |
+| **[Relaticle](https://github.com/relaticle/relaticle)** | [![GitHub stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers) | PHP 8.3, Laravel, Filament v3 | Open-source CRM with native AI agent support. Ships with 37 Model Context Protocol (MCP) tools, REST API, contact management, deal stages, and self-hosted privacy controls. |
+| **[COG Second Brain & CRM](https://github.com/huytieu/COG-second-brain)** | [![GitHub stars](https://img.shields.io/github/stars/huytieu/COG-second-brain?style=social&color=white)](https://github.com/huytieu/COG-second-brain/stargazers) | Python, Shell, Markdown | Self-evolving second brain with 35 AI skills, 10 autonomous agents, and an integrated people/relationship CRM designed to work with Claude Code, Cursor, and Gemini CLI. |
+| **[CiviCRM Core](https://github.com/civicrm/civicrm-core)** | [![GitHub stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers) | PHP, MySQL, Drupal / WordPress Integration | Robust open-source CRM for non-profits and civic sector. Extensible with self-hosted AI modules via Drupal AI and local RAG pipelines for private donor interaction analysis. |
+| **[SDRbot](https://github.com/NForce-ai/SDRbot)** | [![GitHub stars](https://img.shields.io/github/stars/NForce-ai/SDRbot?style=social&color=white)](https://github.com/NForce-ai/SDRbot/stargazers) | Python, CLI, MCP Server | Open-source, terminal-native RevOps agent for sales research and CRM workflows. Includes tool permission gates, auto-approve execution, and email integration. |
+| **[BasaltCRM](https://github.com/BasaltHQ/crm-official)** | [![GitHub stars](https://img.shields.io/github/stars/BasaltHQ/crm-official?style=social&color=white)](https://github.com/BasaltHQ/crm-official/stargazers) | Next.js 16, TypeScript, AWS Chime | AI-native CRM featuring LeadGen Wizard for autonomous web crawling, AI Insights Widget for revenue risk checks, and an integrated dialer with voice AI agent support. |
+| **[OpenCloser](https://github.com/issacops/opencloser-v2)** | [![GitHub stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers) | Tauri, React, Rust, Gemini | Open-source desktop AI SDR and sales copilot. Includes ICP strategist, Kanban lead researcher, Twilio voice agent dialer, and post-call analysis without mandatory API keys. |
+| **[ZeroPipeline](https://github.com/kzxl/ZeroPipeline)** | [![GitHub stars](https://img.shields.io/github/stars/kzxl/ZeroPipeline?style=social&color=white)](https://github.com/kzxl/ZeroPipeline/stargazers) | Python, MCP Protocol | AI-native CRM server exposing 30+ CRM tools over Model Context Protocol (MCP) for Claude, Cursor, and Codex with zero configuration required. |
+| **[Project Wingman (ClientLens)](https://github.com/avinashgaurav/project-wingman-ClientLens)** | [![GitHub stars](https://img.shields.io/github/stars/avinashgaurav/project-wingman-ClientLens?style=social&color=white)](https://github.com/avinashgaurav/project-wingman-ClientLens/stargazers) | Python 3.11, JavaScript, Chrome Extension | Open-source AI sales copilot for Google Meet live calls. Features real-time sentiment scoring, objection-handling coach, and structured CRM sync. |
+
+---
+
+## 🧠 Architecture: How Generative AI Powers Modern CRM
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        USER / SALES REP / AI AGENT                     │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │ Natural Language Query / Voice Call
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                 AGENTIC REASONING & ORCHESTRATION LAYER                │
+│   • Model Context Protocol (MCP)        • LangChain / LlamaIndex       │
+│   • Multi-Agent Coordinators (CrewAI)   • Autonomous SDR State Machine │
+└───────────────────┬────────────────────────────────┬───────────────────┘
+                    │                                │
+                    ▼ Tool Calls                     ▼ Grounding & Context
+┌──────────────────────────────────────┐  ┌──────────────────────────────┐
+│        CRM EXECUTION ENGINE          │  │       RAG & MEMORY STORE     │
+│ • Deal Stage Management              │  │ • Vector DB (Qdrant/Weaviate)│
+│ • Contact & Account CRUD             │  │ • Customer Interaction Logs  │
+│ • Automated Email & Task Dispatcher  │  │ • Product Knowledge Base     │
+└───────────────────┬──────────────────┘  └──────────────┬───────────────┘
+                    │                                    │
+                    └─────────────────┬──────────────────┘
+                                      ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                   ENTERPRISE COMPLIANCE & SECURITY                     │
+│   • Role-Based Access Control (RBAC)    • PII Sanitization & Masking   │
+│   • Guardrails & Prompt Defense         • Audit Logging & Sovereignty  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🔑 Key Architectural Components
+1. **Model Context Protocol (MCP)**: The emerging open standard enabling client AI models (Claude, ChatGPT, Cursor, local LLMs) to discover and execute CRM actions via standard tools (`create_lead`, `search_account`, `update_deal_stage`).
+2. **Context-Grounding & RAG**: Real-time retrieval of previous customer tickets, email threads, contracts, and company profiles to prevent hallucinations in sales outreach.
+3. **Data Sovereignty Guards**: Enterprise CRM deployments enforce strict database-level RBAC so LLM agents only read and modify records the authenticated user has explicit rights to access.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### 1. What is Generative AI for CRM?
+Generative AI for CRM combines Large Language Models (LLMs) with customer management software. Rather than manually typing notes or navigating complex database forms, sales and support teams use conversational language and autonomous AI agents to qualify leads, draft personalized emails, summarize calls, and predict customer churn.
+
+### 2. How does Model Context Protocol (MCP) transform CRM software?
+Model Context Protocol (MCP) allows any AI assistant (like Claude Desktop, Cursor, or an open-source agent) to securely connect to your CRM as a standardized client. Instead of writing custom API wrappers for every CRM vendor, an MCP server provides uniform tools for contact lookup, deal management, and activity logging.
+
+### 3. What are the key advantages of open-source AI CRM over SaaS?
+- **Data Privacy & Compliance**: Sensitive customer and revenue data remains strictly within your own virtual private cloud (VPC) or local infrastructure (GDPR/HIPAA compliant).
+- **Zero Per-Seat AI Surcharges**: Avoid expensive per-user monthly AI add-on fees ($25–$165/seat/month).
+- **Custom Model Selection**: Plug in specialized open models (Llama 3, Mistral, Qwen, DeepSeek) fine-tuned on your internal sales playbooks.
+
+---
+
+## 🤝 How to Contribute
+
+We actively welcome contributions from the community! To suggest a new SaaS product, open-source repository, or feature update:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-crm-tool`.
+3. ✍️ **Add or edit entries in `README.md`**:
+   - For SaaS tools: Provide exact starting pricing, verified trial limits, and valuation/revenue.
+   - For Open-Source tools: Include owner/repo format with star badge link and core technical stack.
+4. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+Please review [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for curated repository best practices!
+
+---
+
+## 💖 Support & Sponsor
+
+If you find this repository helpful for evaluating or building generative AI solutions for CRM, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** with your revenue operations, engineering, and product teams.
+- ☕ **Support the maintainer**: Buy a coffee or sponsor development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support enables continuous updates, verified pricing monitoring, and open-source curation! 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Generative-AI-For-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Generative-AI-For-CRM&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a **community-curated index** intended for informational and educational purposes. Mention of specific vendors does not constitute an endorsement.
+- Generative AI systems deployed in customer-facing environments must strictly adhere to relevant data protection laws (including GDPR, CCPA, and HIPAA) and maintain human-in-the-loop validation for automated communications.
+
+---
+
+<div align="center">
+  <b>Built with ❤️ for Revenue Operations, Sales Leaders, and AI Engineers worldwide.</b>
+</div>
